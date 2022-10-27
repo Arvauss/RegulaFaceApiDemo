@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        FaceSDK.Instance().setServiceUrl("");
+        //FaceSDK.Instance().setServiceUrl("");
 
     }
 

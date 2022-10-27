@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695945190903",
+    "project_id": "visitorsdemo",
+    "storage_bucket": "visitorsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695945190903:android:d8a3a118d757ee30fae2f2",
+        "android_client_info": {
+          "package_name": "com.example.regulafaceapidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695945190903-bq7iduqdj55k50j58lqtc619dgj7flc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xS73uN94NXbu1KenmykV5JVici53Jxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695945190903-bq7iduqdj55k50j58lqtc619dgj7flc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
